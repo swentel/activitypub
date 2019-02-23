@@ -1,0 +1,26 @@
+{
+  "name": "drupal/activitypub",
+  "description": "ActivityPub integration for your site.",
+  "type": "drupal-module",
+  "homepage": "http://drupal.org/project/activitypub",
+  "authors": [
+    {
+      "name": "Kristof De Jaeger",
+      "email": "swentel@realize.be",
+      "homepage": "https://realize.be",
+      "role": "Maintainer"
+    }
+  ],
+  "license": "GPL-2.0+",
+  "minimum-stability": "dev",
+  "require": {
+    "landrok/activitypub": "dev-master"
+  },
+  "extra": {
+    "drush": {
+      "services": {
+        "drush.services.yml": "^9"
+      }
+    }
+  }
+}

@@ -1,0 +1,3 @@
+administer activitypub:
+  title: 'Administer ActivityPub configuration'
+  description: 'Manage all ActivityPub configuration.'

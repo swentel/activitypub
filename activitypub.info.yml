@@ -1,0 +1,5 @@
+name: ActivityPub
+type: module
+description: Integrates your site with the Fediverse
+core: 8.x
+package: ActivityPub

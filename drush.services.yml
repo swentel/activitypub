@@ -1,0 +1,5 @@
+services:
+  activitypub.commands:
+    class: \Drupal\activitypub\Commands\ActivityPubCommands
+    tags:
+      - { name: drush.command }

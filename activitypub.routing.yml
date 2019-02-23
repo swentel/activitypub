@@ -1,0 +1,15 @@
+activitypub.inbox:
+  path: '/activitypub/{user}/inbox'
+  defaults:
+    _controller: '\Drupal\activitypub\Controller\InboxController::inbox'
+    _title: 'Activitypub inbox'
+  requirements:
+    _access: 'TRUE'
+
+activitypub.outbox:
+  path: '/activitypub/{user}/outbox'
+  defaults:
+    _controller: '\Drupal\activitypub\Controller\OutboxController::outbox'
+    _title: 'Activitypub outbox'
+  requirements:
+    _access: 'TRUE'
