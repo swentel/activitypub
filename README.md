@@ -2,7 +2,7 @@
 
 ## About this module
 
-Integrates the ActivityPub in your Drupal website.
+Integrates ActivityPub in your Drupal website so you can interact with your site on the Fediverse.
 
 Development happens on github: https://github.com/swentel/activitypub
 
