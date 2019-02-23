@@ -6,7 +6,7 @@ Integrates ActivityPub in your Drupal website so you can interact with your site
 
 Development happens on github: https://github.com/swentel/activitypub
 
-Releases will soon be available on drupal.org: https://www.drupal.org/project/indieweb
+Releases will soon be available on drupal.org: https://www.drupal.org/project/activitypub
 
 ## To install
 
