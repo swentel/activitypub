@@ -1,10 +1,10 @@
 # ActivityPub for Drupal
 
-## About this module
+Implements the ActivityPub protocol for your site. Readers will be able to follow content on Mastodon and other federated platforms that support ActivityPub. Responses are possible too (Like, Announce, Reply) with more to come.
 
-Integrates ActivityPub in your Drupal website so any Drupal user can interact with their profile on the Fediverse.
+Check the README on drupal.org for all features, installation and configuration:
+https://git.drupalcode.org/project/activitypub/-/blob/1.0.x/README.md
 
-The Lite version is in active development on https://www.drupal.org/project/activitypub
+Development of the lite version happens in the 1.0.x branch on https://drupal.org/project/activitypub.
 
-Development for extended AP integration will happen on GitHub - or maybe on d.o as well, we'll see :)
-
+The extended version will be developed at some point on GitHub at https://github.com/swentel/activitypub and will be synced back for bug fixes and releases.
