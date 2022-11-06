@@ -5,6 +5,6 @@ Implements the ActivityPub protocol for your site. Readers will be able to follo
 Check the README on drupal.org for all features, installation and configuration:
 https://git.drupalcode.org/project/activitypub/-/blob/1.0.x/README.md
 
-Development of the lite version happens in the 1.0.x branch on https://drupal.org/project/activitypub.
+Development happens in the 1.0.x branch on https://drupal.org/project/activitypub.
 
-The extended version will be developed at some point on GitHub at https://github.com/swentel/activitypub and will be synced back for bug fixes and releases.
+Archived so we can keep track of thoughts in issues.
