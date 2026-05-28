@@ -1,7 +1,7 @@
 {
     "name": "swentel/activitypub",
     "type": "library",
-    "version": "0.0.1",
+    "version": "1.0.1",
     "description": "Temporary package which contains a fork of https://github.com/landrok/activitypub with changes for the Drupal AP module.",
     "keywords": ["ActivityPub", "ActivityStreams", "federation"],
     "homepage": "https://github.com/swentel/activitypub",
